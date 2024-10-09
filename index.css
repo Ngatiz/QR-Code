@@ -1,0 +1,21 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.qr {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 33.1%;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.qr:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+img {
+  margin: 10px;
+  border-radius: 5px 5px 0 0;
+}
+
+.text {
+  padding: 2px 10px;
+}
